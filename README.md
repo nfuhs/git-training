@@ -1,2 +1,6 @@
 # git-training
-Git Training Repo
+
+## Basic Git workflow cheatsheet
+
+Basic Git workflow:
+
