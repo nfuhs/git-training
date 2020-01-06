@@ -4,12 +4,13 @@
 
 Basic Git workflow:
 
-1. git init
+1. Init repo ```git init```
 
-2. git status
+2. Check status ``` git status```
 
-3. git add .
+3. Add modified files ```git add .```
 
-4. git commit -m "make change"
+4. Commit changes
+```git commit -m "make change"```
 
-5. git push
+5. Push changes ```git push```
